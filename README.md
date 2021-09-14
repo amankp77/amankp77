@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Pathak 
-- 👀 I’m interested in Web devlopment, Competitive programing and in digital Arts like Cinematograpgy,Vlogging,Design etc.
+- 👀 I’m interested in App development,Web devlopment, Competitive programing and in digital Arts like Cinematograpgy,Vlogging,Design etc.
 - 🌱 I’m currently learning coding as a begineer :) 
 - :)  I'm a  at Sophomore IIT(BHU) Varanasi 
 
