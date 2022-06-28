@@ -50,7 +50,9 @@
 
 <br>
 
-## Stats 😅  <img align="left" alt="Git" width="60px" src="https://c.tenor.com/Ej3BJBhwt_0AAAAC/cute-kitty.gif" /> <br>
+## Stats 😅  
+<!-- <img align="left" alt="Git" width="60px" src="https://c.tenor.com/Ej3BJBhwt_0AAAAC/cute-kitty.gif" /> -->
+<br>
 
 <!-- <img align="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy.gif" width="90px"> -->
 <br>
