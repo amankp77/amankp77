@@ -1,18 +1,16 @@
 # Hi there, I'm Aman Pathak👋😄 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amankp77&left_color=e63946&right_color=green) 
-<br>
-<p align="center">
-  <img aligh="center" src="https://c.tenor.com/lUFliafCu_MAAAAC/hello.gif" width="400px">
-</p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famankp77&label=Visitors&countColor=%23263759&style=plastic)
+<be>
 
 ---
+
 
 ### I'm an Undergraduate Student, majoring in Chemical Engineering and Technology from  <a href="/https://www.iitbhu.ac.in/"> <b>Indian Institute of Technology</b>, Varanasi</a> 
 <br>
 
-- 🌱  Keen on learning interesting things in computer science, digital arts etc. .
-- 📸  I like all the stuffs of digital arts like photography, cinematography, editing, Illustrations.
-- ⚡  Just Introspect and Retrospect whenever you feel necessary .
+- 🌱  Keen on learning interesting things in computer science, digital arts etc..
+- 📸  I like all the stuff of digital arts like photography, cinematography, editing, and Illustrations.
+- ⚡  Just Introspect and Retrospect whenever you feel necessary.
 - 🎶  Love Music and Making videos :).
 <br>
 
@@ -51,24 +49,18 @@
 <br>
 
 ## Stats 😅  
-<!-- <img align="left" alt="Git" width="60px" src="https://c.tenor.com/Ej3BJBhwt_0AAAAC/cute-kitty.gif" /> -->
+
 <br>
 
-<!-- <img align="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy.gif" width="90px"> -->
+![Pathak's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankp77&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br>
-
-![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankp77&count_private=true&theme=chartreuse-dark&show_icons=true&line_height=30px)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amankp77&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
+![amankp77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amankp77&theme=tokyonight&hide_border=false)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankp77&layout=compact&theme=chartreuse-dark&show_icons=true&line_height=40px&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
-
+![amankp77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amankp77&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
-## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amankp77&column=4&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/amankp77/github-profile-trophy)
-
----
 
 ### Connect with me:
 
@@ -80,8 +72,3 @@
 [<img align="left" alt="GK | Instagram" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/instagram.png" />](https://www.instagram.com/amanpathak254akp/)
 
 <br>
-
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-
